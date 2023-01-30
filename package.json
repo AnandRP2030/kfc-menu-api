@@ -1,0 +1,20 @@
+{
+  "name": "for-testing",
+  "version": "1.0.0",
+  "description": "kfc data",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnandRP2030/for-testing.git"
+  },
+  "author": "Anand R P",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnandRP2030/for-testing/issues"
+  },
+  "homepage": "https://github.com/AnandRP2030/for-testing#readme"
+}
