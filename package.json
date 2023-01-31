@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/AnandRP2030/for-testing/issues"
   },
-  "homepage": "https://github.com/AnandRP2030/for-testing#readme"
+  "homepage": "https://github.com/AnandRP2030/for-testing#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
 }
